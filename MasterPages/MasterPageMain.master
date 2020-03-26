@@ -1,0 +1,97 @@
+<%@ Master Language="C#" CodeFile="MasterPageMain.master.cs" Inherits="MasterPages_MasterPageMain" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+    <link rel="stylesheet" type="text/css" href="~/StyleSheets/all.css" />
+    <link rel="stylesheet" href="~/StyleSheets/player.css" type="text/css" media="screen" />
+    <title>CompuSport</title>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143696953-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-143696953-1');
+</script>
+
+</head>
+<body>
+    <form id="Main" runat="server">
+    <table class="principal" cellspacing="1" cellpadding="1" align="center">
+        <tr>
+            <td>
+                <table border="0" id="table1" cellspacing="0" cellpadding="0" width="1020">
+                    <tr>
+                        <td class="top">
+                            <asp:Image ID="Image2" runat="server" ImageUrl="~/Images/CompuSportRunningLogoHomePageFinal.png"
+                                class="logo" />
+                            <%--<asp:Image ID="Image1" runat="server" ImageUrl="~/Images/Alogo1.png" class="logo" />--%>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="linegray">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="barmiddle">
+                            <!--John Doe | <a href="#" class="linkbar">Logout</a></td>-->
+                            <div class="linkbar">
+                                <asp:LoginStatus ID="LoginStatus1" runat="server" />
+                                   <%-- <asp:LoginStatus ID="LoginStatus2" runat="server" onloggingout="LoginStatus1_LoggingOut" />--%> <%--after Logout send email forlogin and logout time --%>
+                                <%-- |
+                                <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/MakeMember.aspx">Make Me a Member</asp:HyperLink>--%>
+                                <asp:Label ID="Label1" runat="server" Text="Welcome " Visible="False"></asp:Label>
+                                <asp:Label ID="Label2" runat="server" Visible="False"></asp:Label>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="menu">
+                            <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" StartingNodeOffset="0" />
+                            <asp:Menu ForeColor="#FFFFFF" DynamicHoverStyle-BackColor="#053654" DynamicHoverStyle-ForeColor="#FFFFFF"
+                                DynamicMenuItemStyle-BackColor="#053654" DynamicMenuItemStyle-ForeColor="#FFFFFF"
+                                DynamicMenuStyle-BackColor="#053654" DynamicMenuStyle-ForeColor="#FFFFFF" DynamicSelectedStyle-BackColor="#053654"
+                                DynamicSelectedStyle-ForeColor="#FFFFFF" DynamicHorizontalOffset="30" runat="server"
+                                CssClass="enlaceboton" DataSourceID="SiteMapDataSource1" Orientation="Horizontal"
+                                MaximumDynamicDisplayLevels="1" SkipLinkText="" StaticDisplayLevels="2">
+                                <DynamicHoverStyle BackColor="#003366" ForeColor="White"></DynamicHoverStyle>
+                                <DynamicMenuStyle BackColor="#053654" ForeColor="White"></DynamicMenuStyle>
+                                <DynamicMenuStyle CssClass="submenu" />
+                                <DynamicSelectedStyle BackColor="#053654" ForeColor="White"></DynamicSelectedStyle>
+                                <DynamicMenuItemStyle BackColor="#053654" ForeColor="White"></DynamicMenuItemStyle>
+                                <DataBindings>
+                                    <asp:MenuItemBinding DataMember="SiteMapNode" TextField="Title" NavigateUrlField="url" />
+                                </DataBindings>
+                            </asp:Menu>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="linewhite">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="center">
+                            <div class="content" style="padding-bottom:90%;">
+                                <div class="contentmargin">
+                                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                    </asp:ContentPlaceHolder>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td class="barmiddlebottom">
+                &copy;2016 CompuSport. All rights reserved.
+            </td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>

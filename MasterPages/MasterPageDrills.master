@@ -1,0 +1,22 @@
+<%@ Master Language="C#" CodeFile="MasterPageDrills.master.cs" Inherits="MasterPages_MasterPageDrills" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+    <link rel="stylesheet" type="text/css" href="~/StyleSheets/all.css" />
+    <link rel="stylesheet" href="~/StyleSheets/drillsplayer.css" type="text/css" media="screen" />
+    <title>SwingModel</title>
+</head>
+
+<body style="background-color: #eff0f0; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px;">
+    <form id="Main" runat="server">
+        <div style="left: 0px; top: 0px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px;">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,79 @@
+<%@ Master Language="C#" CodeFile="MasterPageMainOld.master.cs" Inherits="MasterPages_MasterPageMainOld" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+    <title>SwingModel</title>
+</head>
+<body>
+    <form id="Main" runat="server">
+    <div id="header">
+        <div id="headerspacer">
+            &nbsp;
+        </div>
+        <div id="headertop">
+            <div id="headerlefttop">
+            </div>
+            <div id="headermiddletop">
+            </div>
+            <div id="headerrighttop">
+                <div id="loginbox">
+                    <asp:LoginStatus ID="LoginStatus1" runat="server" /><br />
+                    <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/MakeMember.aspx">Make Me a Member</asp:HyperLink>
+                    <asp:Label ID="Label1" runat="server" Text="Welcome " Visible="False"></asp:Label>
+                    <asp:Label ID="Label2" runat="server" Visible="False"></asp:Label>
+                    
+                </div>
+            </div>
+        </div>
+        <div id="headerbottom">
+            <div id="headermenu">
+                <asp:SiteMapDataSource ID="SiteMapDataSource1"
+                    runat="server"
+                    StartingNodeOffset="0" />
+                <asp:Menu ID="mnuHeader"
+                    runat="server"
+                    CssClass="headermenulink"
+                    DataSourceID="SiteMapDataSource1"
+                    Orientation="Horizontal"
+                    MaximumDynamicDisplayLevels="0"
+                    SkipLinkText=""
+                    StaticDisplayLevels="2" />
+            </div>
+            <div id="themeselector">
+                
+            </div>
+        </div>
+    </div>
+    <div id="middlesection">
+        <!--<div id="breadcrumb">
+            <asp:SiteMapPath ID="SiteMapPath1" runat="server" />
+        </div>-->
+        <div id="pagecontent">
+            <asp:contentplaceholder id="MainContent" runat="server">
+            </asp:contentplaceholder>
+        </div>
+    </div>
+    <div id="footer">
+        <div id="footerline">
+        </div>
+        <div id="footermenu">
+            <asp:Menu ID="mnuFooter"
+                runat="server"
+                style="margin-left:auto; margin-right:auto;"
+                CssClass="footermenulink"
+                DataSourceID="SiteMapDataSource1"
+                Orientation="Horizontal"
+                MaximumDynamicDisplayLevels="0"
+                SkipLinkText=""
+                StaticDisplayLevels="2" />
+        </div>
+        <div id="footertext">
+            Copyright &copy; 2008 SwingModel LLC
+        </div>
+    </div>
+    </form>
+</body>
+</html>
