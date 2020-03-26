@@ -1,0 +1,522 @@
+.contplay {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	position: absolute;
+	/*height: 1101px;*/
+	height: 700px;
+	width: 770px;
+}
+#topleft {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: static;
+	height: 26px;
+	width: 23px;
+}
+#topright {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 26px;
+	width: 23px;
+	left: 737px;
+	top: 0px;
+}
+#topcenter {
+	background:url(../Images/topcenter.gif) top left repeat-x;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 26px;
+	width: 719px;
+	left: 23px;
+	top: 0px;
+}
+
+#smsummaryleft 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-decoration: none;
+	position: absolute;
+	height: 40px;
+	width: 23px;
+	top: 26px;
+}
+#smsummarycenter
+{
+	background-color: #78B6C3;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 40px;
+	width: 719px;
+	left: 23px;
+	top: 26px;
+}
+#smsummaryright
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 40px;
+	width: 23px;
+	left: 737px;
+	top: 26px;
+}
+
+.bottomleft {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 31px;
+	width: 23px;
+	left: 0px;
+	/*top: 1070px;*/
+	top: 679px;
+}
+.bottomright {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 31px;
+	width: 23px;
+	left: 737px;
+	/*top: 1070px;*/
+	top: 679px;
+}
+.bottomcenter {
+	background:url(../Images/bottomcenter.gif) top left repeat-x;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 31px;
+	width: 719px;
+	left: 24px;
+	/*top: 1070px;*/
+	top: 679px;
+}
+
+.fillerleft 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-decoration: none;
+	position: absolute;
+	height: 26px;
+	width: 23px;
+	top: 629px;
+}
+.fillercenter
+{
+	background-color: #78B6C3;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 26px;
+	width: 719px;
+	left: 23px;
+	top: 629px;
+}
+.fillerright
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 26px;
+	width: 23px;
+	left: 737px;
+	top: 629px;
+}
+
+.teachersummaryleft 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-decoration: none;
+	position: absolute;
+	height: 40px;
+	width: 23px;
+	top: 655px;
+}
+.teachersummarycenter
+{
+	background-color: #78B6C3;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 40px;
+	width: 719px;
+	left: 23px;
+	top: 655px;
+}
+.teachersummaryright
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 40px;
+	width: 23px;
+	left: 737px;
+	top: 655px;
+}
+
+.bottomleftsummary {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 31px;
+	width: 23px;
+	top: 629px;
+	left: 0px;
+}
+.bottomrightsummary {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 31px;
+	width: 23px;
+	left: 737px;
+	top: 629px;
+}
+.bottomcentersummary {
+	background:url(../Images/bottomcenter.gif) top left repeat-x;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 31px;
+	width: 719px;
+	left: 24px;
+	top: 629px;
+}
+#middleleft {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 613px;
+	width: 23px;
+	top: 66px;
+}
+#middleright {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 613px;
+	width: 25px;
+	left: 737px;
+	top: 66px;
+}
+#middlecenter {
+	background:url(../Images/drillsmiddlecenter.gif) top left repeat-x;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 613px;
+	width: 719px;
+	left: 23px;
+	top: 66px;
+}
+#player1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 329px;
+	width: 437px;
+	left: 2px;
+	top: 24px;
+}
+#frame1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 329px;
+	width: 437px;
+	left: 2px;
+	top: 24px;
+	z-index: 2;
+}
+#player2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 329px;
+	width: 437px;
+	left: 449px;
+	top: 24px;
+}
+#frame2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 329px;
+	width: 437px;
+	left: 449px;
+	top: 24px;
+	z-index: 2;
+}
+#logo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	left: 0px;
+	top: 458px;
+}
+
+.square {
+	background:url(../Images/CompuSportRunningLogoErrorBox1.png) top left no-repeat;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight:bold;
+	text-decoration: none;
+	position: absolute;
+	height: 68px;
+	width: 743px;
+	z-index:10;
+	left: 112px;
+	top: 456px;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+#square 
+{
+	overflow-x:hidden;
+	overflow-y:scroll;
+	height:66px;
+	width:740px;
+}
+
+#square div {
+	margin-top:4px;
+}
+
+#btns {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 37px;
+	width: 635px;
+	left: 67px;
+	top: 370px;
+}
+
+#sel1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 22px;
+	width: 150px;
+	left: 4px;
+	top: 418px;
+}
+
+#sel2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 22px;
+	width: 193px;
+	left: 348.5px;
+	top: 418px;
+}
+#sel3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 22px;
+	width: 150px;
+	left: 535px;
+	top: 418px;
+	
+}
+
+.select1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight:bold;
+	padding-left:1px;
+	height: 22px;
+	width: 343px;
+	border: #8ccdd6 2px solid;
+}
+.select2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight:bold;
+	padding-left:1px;
+	height: 22px;
+	width: 185px;
+	border: #8ccdd6 2px solid;
+}
+#objPlayer1 {
+	position:relative;
+	top:31px;
+	left:39px;
+}
+
+#objPlayer2 {
+	position:relative;
+	top:31px;
+	left:41px;
+}
+
+
+/* ERROR TEXT STYLES */
+.errorText {
+	color:#aa0000;
+}
+
+
+/*frameset button images */
+.btnVideoNo{
+	border:1px solid #1e5974;
+}
+
+#btns img {
+	cursor:pointer;
+	
+}
+
+#btns table {
+	display:none;
+}
+
+#imgPause {
+	background:url(../Images/pause.jpg);
+}
+
+.SumDivLeft {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 425px;
+	width: 23px;
+	top: 695px;
+	left: 0px;
+}
+
+.SumDivRight {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 425px;
+	width: 25px;
+	left: 737px;
+	top: 695px;
+}
+
+.SumDivCenter {
+	background:url(../Images/summarycenter.gif) top left repeat-x;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 425px;
+	width: 719px;
+	left: 23px;
+	top: 695px;
+}
+
+.SummaryVideo
+{
+    position: absolute;
+    width: 800px;
+    height: 300px;
+    left: 46px;
+    top: 44px;
+    z-index: -10;
+}
+
+.SummaryFrame
+{
+    position: absolute;
+    width: 818px;
+    height: 318px;
+    left: 30px;
+    top: 34px;
+    z-index: 12;
+}
+
+.SummaryButtons
+{
+    position: absolute;
+    width: 216px;
+    height: 37px;
+    left: 331px;
+    top: 368px;
+}
+
+.DrillsVideo
+{
+    position: absolute;
+    width: 640px;
+    height: 480px;
+    left: 37px;
+    top: 44px;
+    z-index: -10;
+}
+
+.DrillsFrame
+{
+    position: absolute;
+    width: 658px;
+    height: 498px;
+    left: 21px;
+    top: 34px;
+    z-index: 12;
+}
+
+.DrillsButtons
+{
+    position: absolute;
+    width: 216px;
+    height: 37px;
+    left: 241px;
+    top: 548px;
+}
+
+.DrillsDivCenter {
+	/*background:url(../Images/drillscenter.gif) top left repeat-x;*/
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	height: 425px;
+	width: 719px;
+	left: 9px;
+	top: 0px;
+}
+
