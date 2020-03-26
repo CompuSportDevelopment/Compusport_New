@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NewCompuSport">
+</Property><Property Name="Solution File" Value="D:\Work\Projects\Compusport19-08-2014_\SourceCode\NewCompuSport.sln">
+</Property><Property Name="User Options File" Value="D:\Work\Projects\Compusport19-08-2014_\SourceCode\NewCompuSport.suo">
+</Property><Property Name="Date" Value="Monday, December 12, 2016">
+</Property><Property Name="Time" Value="18:34 PM">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="NewCompuSport.sln" Description="File successfully backed up as D:\Work\Projects\Compusport19-08-2014_\SourceCode\Backup\NewCompuSport.sln">
+</Event><Event ErrorLevel="0" Project="" Source="NewCompuSport.suo" Description="File successfully backed up as D:\Work\Projects\Compusport19-08-2014_\SourceCode\Backup\NewCompuSport.suo">
+</Event><Event ErrorLevel="1" Project="SourceCode" Source="..\SourceCode" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="1" Project="CompuSportDAL" Source="..\CompuSportDAL\CompuSportDAL.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="CompuSportDAL" Source="..\CompuSportDAL\CompuSportDAL.csproj" Description="Project file successfully backed up as D:\Work\Projects\Compusport19-08-2014_\SourceCode\Backup\CompuSportDAL\CompuSportDAL.csproj">
+</Event><Event ErrorLevel="0" Project="CompuSportDAL" Source="..\CompuSportDAL\AthleteBodyDimensions.cs" Description="File successfully backed up as D:\Work\Projects\Compusport19-08-2014_\SourceCode\Backup\CompuSportDAL\AthleteBodyDimensions.cs">
+</Event><Event ErrorLevel="0" Project="CompuSportDAL" Source="..\CompuSportDAL\HurdleCurrentData.cs" Description="File successfully backed up as D:\Work\Projects\Compusport19-08-2014_\SourceCode\Backup\CompuSportDAL\HurdleCurrentData.cs">
+</Event><Event ErrorLevel="0" Project="CompuSportDAL" Source="..\CompuSportDAL\HurdleData.cs" Description="File successfully backed up as D:\Work\Projects\Compusport19-08-2014_\SourceCode\Backup\CompuSportDAL\HurdleData.cs">
+</Event><Event ErrorLevel="0" Project="CompuSportDAL" Source="..\CompuSportDAL\HurdleInitialData.cs" Description="File successfully backed up as D:\Work\Projects\Compusport19-08-2014_\SourceCode\Backup\CompuSportDAL\HurdleInitialData.cs">
+</Event><Event ErrorLevel="0" Project="CompuSportDAL" Source="..\CompuSportDAL\HurdleModelData.cs" Description="File successfully backed up as D:\Work\Projects\Compusport19-08-2014_\SourceCode\Backup\CompuSportDAL\HurdleModelData.cs">
+</Event><Event ErrorLevel="0" Project="CompuSportDAL" Source="..\CompuSportDAL\HurdleStepsData.cs" Description="File successfully backed up as D:\Work\Projects\Compusport19-08-2014_\SourceCode\Backup\CompuSportDAL\HurdleStepsData.cs">
+</Event><Event ErrorLevel="0" Project="CompuSportDAL" Source="..\CompuSportDAL\HurdleVideo.cs" Description="File successfully backed up as D:\Work\Projects\Compusport19-08-2014_\SourceCode\Backup\CompuSportDAL\HurdleVideo.cs">
+</Event><Event ErrorLevel="0" Project="CompuSportDAL" Source="..\CompuSportDAL\Lesson.cs" Description="File successfully backed up as D:\Work\Projects\Compusport19-08-2014_\SourceCode\Backup\CompuSportDAL\Lesson.cs">
+</Event><Event ErrorLevel="0" Project="CompuSportDAL" Source="..\CompuSportDAL\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Work\Projects\Compusport19-08-2014_\SourceCode\Backup\CompuSportDAL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CompuSportDAL" Source="..\CompuSportDAL\RelayData.cs" Description="File successfully backed up as D:\Work\Projects\Compusport19-08-2014_\SourceCode\Backup\CompuSportDAL\RelayData.cs">
+</Event><Event ErrorLevel="0" Project="CompuSportDAL" Source="..\CompuSportDAL\SprintAthleteEdit.cs" Description="File successfully backed up as D:\Work\Projects\Compusport19-08-2014_\SourceCode\Backup\CompuSportDAL\SprintAthleteEdit.cs">
+</Event><Event ErrorLevel="0" Project="CompuSportDAL" Source="..\CompuSportDAL\SprintData.cs" Description="File successfully backed up as D:\Work\Projects\Compusport19-08-2014_\SourceCode\Backup\CompuSportDAL\SprintData.cs">
+</Event><Event ErrorLevel="0" Project="CompuSportDAL" Source="..\CompuSportDAL\StartInitialData.cs" Description="File successfully backed up as D:\Work\Projects\Compusport19-08-2014_\SourceCode\Backup\CompuSportDAL\StartInitialData.cs">
+</Event><Event ErrorLevel="0" Project="CompuSportDAL" Source="..\CompuSportDAL\CompuSportDAL.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="CompuSportDAL" Source="..\CompuSportDAL\CompuSportDAL.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="NewCompuSport.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NewCompuSport.sln" Description="Converted">
+</Event></UpgradeLog>

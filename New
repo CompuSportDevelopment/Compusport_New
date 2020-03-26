@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Default.aspx" title="Home" description="Home">
+
+    <siteMapNode title="My CompuSport" description="My CompSport" roles="Athletes">
+      <siteMapNode url="~/Users/Default.aspx" title="My Information Page" description="My Information Page" roles="*" />
+      <siteMapNode url="~/Users/MySwing.aspx" title="My Performance" description="My Performance" roles="Athletes" />
+      <siteMapNode url="~/Users/MyTeachData.aspx" title="My Force Data" description="My Force Data" roles="Athletes" />
+      <siteMapNode url="~/Users/EmailTeacher.aspx" title="Email My Primary Coach" description="Email My Primary Coach" roles="Athletes" />
+      <siteMapNode url="~/Users/MyTeacher.aspx" title=" My Primary Coach" description="My Primary Coach" roles="Athletes" />
+      <siteMapNode url="~/Users/MyAccount.aspx" title="My Account" description="My Account" roles="*" />
+      <siteMapNode url="~/Users/MyDimensions.aspx" title="My Dimensions" description="My Dimensions" roles="Athletes" />
+      <siteMapNode url="~/Users/MyGolf.aspx" title="My Profile" description="My Golf" roles="*" />
+      <siteMapNode url="~/Users/ChangePasswordEmail.aspx" title="Change My Password/My Email" description="Change My Password/My Email" roles="*" />
+      <siteMapNode url="~/Users/DDLLoading.aspx" title="Checking DDL" description="Checking DDL" roles="*" />
+    </siteMapNode>
+
+    <!--My CompuSport-->
+    <siteMapNode title="My CompuSport" description="My CompSport" roles="Teachers,Facility Administrators,Administrators,Primary Administrator">
+      <siteMapNode url="~/Users/Default.aspx#" title="My Information Page" description="My Information Page" roles="*" />
+      <siteMapNode url="~/Users/MyAccount.aspx#" title="My Account" description="My Account" roles="Teachers,Facility Administrators,Administrators,Primary Administrator" />
+      <siteMapNode url="~/Users/ChangePasswordEmail.aspx#" title="Change My Password/My Email" description="Change My Password/My Email" roles="*" />
+    </siteMapNode>
+
+    <!--About Us-->
+    <siteMapNode title="About Us"  description="About Us" roles="*">
+      <siteMapNode url="~/About/Default.aspx" title="Track and Field" description="Track and Field" roles="*" />
+      <siteMapNode url="~/About/Football.aspx" title="Football" description="Football" roles="*" />
+    </siteMapNode>
+
+    <!--Locations-->
+    <siteMapNode title="Locations" description="Locations" roles="*">
+      <siteMapNode url="~/Locations/TrackandField.aspx" title="Track and Field" description="Track and Field" roles="*" />
+      <siteMapNode url="~/Locations/Football.aspx" title="Football" description="Football" roles="*" />
+    </siteMapNode>
+
+    <!--Contact Us-->
+    <siteMapNode title="Contact Us" description="Contact Us" roles="*">
+      <siteMapNode url="~/Contact/Default.aspx" title="Corporate" description="Corporate" roles="*" />
+      <siteMapNode url="~/Contact/EmailTeacher.aspx" title="Email A Coach" description="Email A Coach" roles="*" />
+      <!--<siteMapNode url="~/Contact/CoachProfile.aspx" title="Coach Profile" description="Coach Profile" roles="*" />-->
+    </siteMapNode>
+
+    <!--Coaches-->
+    <siteMapNode title="Coaches" description="Coaches" roles="Teachers,Administrators,Primary Administrator">
+      <siteMapNode url="~/Teachers/MemberSearch.aspx" title="My Athlete Search" description="All Member Search" roles="Teachers,Administrators,Primary Administrator" />
+      <siteMapNode url="~/Teachers/SelectMember.aspx" title="My Athlete Video Player" description="My Athlete Video Player" roles="Teachers,Administrators,Primary Administrator" />
+      <siteMapNode url="~/Teachers/MyAthleteForceData.aspx" title="My Athlete Force Data" description="My Athlete Force Data" roles="Teachers,Administrators,Primary Administrator" />
+      <siteMapNode url="~/Teachers/MemberList.aspx" title="My Athlete List" description="My Member List" roles="Teachers,Administrators,Primary Administrator" />
+      <siteMapNode url="~/Teachers/TeacherBio.aspx" title="My Coach Profile" description="My Coach Profile" roles="Teachers,Administrators,Primary Administrator" />
+    </siteMapNode>
+
+    <!--Facility-->
+    <siteMapNode title="Facility" description="Facility" roles="Facility Administrators,Administrators,Primary Administrator">
+      <siteMapNode url="~/Facility/MemberSearch.aspx" title="Facility Athlete Search" description="All Member Search" roles="Facility Administrators,Administrators,Primary Administrator" />
+      <siteMapNode url="~/Facility/SelectMember.aspx" title="Facility Athlete Video Player" description="Facility Athlete Video Player" roles="Facility Administrators,Administrators,Primary Administrator" />
+      <siteMapNode url="~/Facility/SelectMemberForForceData.aspx" title="Facility Athlete Force Data" description="Facility Athlete Force Data" roles="Facility Administrators,Administrators,Primary Administrator" />
+      <siteMapNode url="~/Facility/MemberList.aspx" title="Facility Athlete List" description="My Member List" roles="Facility Administrators,Administrators,Primary Administrator" />
+      <siteMapNode url="~/Facility/TeacherBio.aspx" title="Facility Coach Profiles" description="Facility Coach Profiles" roles="Facility Administrators,Administrators,Primary Administrator" />
+      <siteMapNode url="~/Facility/RenewMember.aspx" title="Renew Members" description="Renew Members" roles="Facility Administrators,Administrators,Primary Administrator" />-->
+    </siteMapNode>
+
+    <!--Admin-->
+    <siteMapNode title="Admin" description="Admin" roles="Administrators,Primary Administrator">
+      <siteMapNode url="~/Admin/MemberSearch.aspx" title="All Member Search" description="All Member Search" roles="Administrators,Primary Administrator" />
+      <siteMapNode url="~/Admin/SelectMember.aspx" title="All Athlete Video Player" description="All Athlete Video Player’" roles="Administrators,Primary Administrator" />
+      <siteMapNode url="~/Admin/SelectMemberForForceData.aspx" title="All Athlete Force Data" description="All Athlete Force Data" roles="Administrators,Primary Administrator" />
+      <siteMapNode url="~/Admin/MemberList.aspx" title="All Athlete List" description="All Athlete List" roles="Administrators,Primary Administrator"  />
+      <siteMapNode url="~/Admin/TeacherBio.aspx" title="All Coach Profiles" description="All Coach Profiles" roles="Administrators,Primary Administrator" />
+      <siteMapNode url="~/Admin/AddTeachers.aspx" title="Create/Edit Coaches" description="Create/Edit Coaches" roles="Administrators,Primary Administrator" />
+      <siteMapNode url="~/Admin/MakeNewMember.aspx" title="Make New Member" description="Make New Member" roles="Administrators,Primary Administrator" />
+      <siteMapNode url="~/Admin/RenewMember.aspx" title="Renew Members" description="Renew Members" roles="Administrators,Primary Administrator" />
+      <siteMapNode url="~/Admin/TeacherList.aspx" title="Coaches List" description="Coaches List" roles="Administrators,Primary Administrator" />
+      <siteMapNode url="~/Admin/MembershipExpiration.aspx" title="Alter Expiration Date" description="Alter Expiration Date" roles="Administrators,Primary Administrator" />
+      <siteMapNode url="~/Admin/ResetMemberPassword.aspx" title="Reset Member Password" description="Reset Member Password" roles="Administrators,Primary Administrator" />
+      <siteMapNode url="~/Admin/DeleteUser.aspx" title="Delete Members" description="DeleteMembers" roles="Administrators,Primary Administrator" />
+      <siteMapNode url="~/Admin/AssignAthlete.aspx" title="Assign Athlete" description="Assign Athlete" roles="Administrators,Primary Administrator" />
+      <siteMapNode url="~/Admin/InputSprintData.aspx" title="Input Sprint Data" description="Input Sprint Data" roles="Administrators,Primary Administrator"/>
+      <siteMapNode url="~/Admin/InputHurdleStepData.aspx" title="Input Hurdle Step Data" description="Input Hurdle Step Data" roles="Administrators,Primary Administrator"/>
+      <siteMapNode url="~/Admin/InputStartData.aspx" title="Input Start Data" description="Input Start data" roles="Administrators,Primary Administrator"/>
+      <siteMapNode url="~/Admin/InputHurdleData.aspx" title="Input Hurdle Data" description="Input Hurdle data" roles="Administrators,Primary Administrator"/>
+      <siteMapNode url="~/Admin/My Profile.aspx" title="Input Athlete Profile Data" description="Input Athlete Profile Data" roles="Administrators,Primary Administrator"/>
+      <siteMapNode url="~/Admin/AthletesDimesions.aspx" title="Input Athlete Dimensions Data" description="Input Athlete Dimensions Data" roles="Administrators,Primary Administrator"/>
+      <siteMapNode url="~/Admin/AthletesAccount.aspx" title="Input Athlete Account Data" description="Input Athlete Account Data" roles="Administrators,Primary Administrator"/>
+      <siteMapNode url="~/Admin/LessonData.aspx" title="Alter Sprint Session ID" description="Alter Sprint Session ID" roles="Administrators,Primary Administrator" />
+      <siteMapNode url="~/Admin/AlterHurdleStepSessionID.aspx" title="Alter Hurdle Step Session ID" description="Alter Hurdle Step Session ID" roles="Administrators,Primary Administrator" />
+      <siteMapNode url="~/Admin/AlterStartSessionID.aspx" title="Alter Start Session ID" description="Alter Start Session ID" roles="Administrators,Primary Administrator" />
+      <siteMapNode url="~/Admin/AlterHurdleSessionID.aspx" title="Alter Hurdle Session ID" description="Alter Hurdle Session ID" roles="Administrators,Primary Administrator" />
+      <siteMapNode url="~/Admin/BlockForceInput.aspx" title="Block Force Input Page" description="Block Force Input Page" roles="Administrators,Primary Administrator" />
+      <siteMapNode url="~/Admin/AlterLocation.aspx" title="Create/Edit Locations " description="Create/Edit Locations " roles="Administrators,Primary Administrator" />
+
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>
