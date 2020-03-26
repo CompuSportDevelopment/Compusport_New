@@ -1,0 +1,5 @@
+F:\Work\Projects\sandeep\compu-sport\ Compusport19-08-2014\CompuSportDAL\bin\Release\CompuSportDAL.dll
+F:\Work\Projects\sandeep\compu-sport\ Compusport19-08-2014\CompuSportDAL\bin\Release\CompuSportDAL.pdb
+F:\Work\Projects\sandeep\compu-sport\ Compusport19-08-2014\CompuSportDAL\obj\Release\ResolveAssemblyReference.cache
+F:\Work\Projects\sandeep\compu-sport\ Compusport19-08-2014\CompuSportDAL\obj\Release\CompuSportDAL.dll
+F:\Work\Projects\sandeep\compu-sport\ Compusport19-08-2014\CompuSportDAL\obj\Release\CompuSportDAL.pdb

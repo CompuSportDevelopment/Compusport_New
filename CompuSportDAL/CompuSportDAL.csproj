@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D5027B68-3468-42FF-B24C-3C6B5BBA571F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CompuSportDAL</RootNamespace>
+    <AssemblyName>CompuSportDAL</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="compusport.Data">
+      <HintPath>D:\Dixit(2)\Projects\CompuTire28Aug12\Bin\compusport.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="compusport.Data.SqlClient">
+      <HintPath>D:\Dixit(2)\Projects\CompuTire28Aug12\Bin\compusport.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="compusport.Entities">
+      <HintPath>D:\Dixit(2)\Projects\CompuTire28Aug12\Bin\compusport.Entities.dll</HintPath>
+    </Reference>
+    <Reference Include="CompuSportDAL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualC.STLCLR" />
+    <Reference Include="PdfSharp, Version=1.50.5147.0, Culture=neutral, PublicKeyToken=f94615aa0424f9eb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\PdfSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfSharp.Charting, Version=1.50.5147.0, Culture=neutral, PublicKeyToken=f94615aa0424f9eb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\PdfSharp.Charting.dll</HintPath>
+    </Reference>
+    <Reference Include="SwingModel.Data, Version=1.0.87.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SwingModel.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="SwingModel.Data.SqlClient, Version=1.0.87.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SwingModel.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="SwingModel.Entities, Version=1.0.87.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SwingModel.Entities.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AthleteBodyDimensions.cs" />
+    <Compile Include="Customer.cs" />
+    <Compile Include="HurdleCurrentData.cs" />
+    <Compile Include="HurdleData.cs" />
+    <Compile Include="HurdleInitialData.cs" />
+    <Compile Include="HurdleModelData.cs" />
+    <Compile Include="HurdlePageOnTrackSession.cs" />
+    <Compile Include="HurdlePageSessionData.cs" />
+    <Compile Include="HurdleStepsData.cs" />
+    <Compile Include="HurdleStepsPageOnTrackSession.cs" />
+    <Compile Include="HurdleStepsPageSessionData.cs" />
+    <Compile Include="HurdleVideo.cs" />
+    <Compile Include="Lesson.cs" />
+    <Compile Include="Movie.cs" />
+    <Compile Include="OnTrackSession.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RelayData.cs" />
+    <Compile Include="SessionData.cs" />
+    <Compile Include="SprintAthleteEdit.cs" />
+    <Compile Include="SprintData.cs" />
+    <Compile Include="StartFinalData.cs" />
+    <Compile Include="StartInitialData.cs" />
+    <Compile Include="StartModelData.cs" />
+    <Compile Include="StartPageOnTrackSession.cs" />
+    <Compile Include="StartPageSessionData.cs" />
+    <Compile Include="TrackLogNdLogOutTime.cs" />
+    <Compile Include="VariableData.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\Debug\TempPE\" />
+    <Folder Include="obj\Release\TempPE\" />
+    <Folder Include="Other\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\CompuSportDAL.dll" />
+    <Content Include="bin\Debug\CompuSportDAL.pdb" />
+    <Content Include="bin\Release\CompuSportDAL.dll" />
+    <Content Include="bin\Release\CompuSportDAL.pdb" />
+    <Content Include="CompuSportDAL.sln" />
+    <Content Include="obj\Debug\CompuSportDAL.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\CompuSportDAL.dll" />
+    <Content Include="obj\Debug\CompuSportDAL.pdb" />
+    <Content Include="obj\Debug\Refactor\CompuSportDAL.dll" />
+    <Content Include="obj\Release\CompuSportDAL.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Release\CompuSportDAL.dll" />
+    <Content Include="obj\Release\CompuSportDAL.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\Debug\CompuSportDAL.csprojResolveAssemblyReference.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\ResolveAssemblyReference.cache" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

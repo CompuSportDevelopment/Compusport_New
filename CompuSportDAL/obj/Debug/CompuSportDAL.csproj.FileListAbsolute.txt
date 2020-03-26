@@ -1,0 +1,77 @@
+C:\Documents and Settings\Dixit\My Documents\Visual Studio 2010\Projects\CompuSportDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dixit\My Documents\Visual Studio 2010\Projects\CompuSportDAL\bin\Debug\CompuSportDAL.dll
+C:\Documents and Settings\Dixit\My Documents\Visual Studio 2010\Projects\CompuSportDAL\bin\Debug\CompuSportDAL.pdb
+C:\Documents and Settings\Dixit\My Documents\Visual Studio 2010\Projects\CompuSportDAL\obj\Debug\CompuSportDAL.dll
+C:\Documents and Settings\Dixit\My Documents\Visual Studio 2010\Projects\CompuSportDAL\obj\Debug\CompuSportDAL.pdb
+C:\Documents and Settings\Dixit\My Documents\Visual Studio 2010\Projects\CompuSportDAL\bin\Debug\compusport.Data.dll
+C:\Documents and Settings\Dixit\My Documents\Visual Studio 2010\Projects\CompuSportDAL\bin\Debug\compusport.Data.SqlClient.dll
+C:\Documents and Settings\Dixit\My Documents\Visual Studio 2010\Projects\CompuSportDAL\bin\Debug\compusport.Entities.dll
+C:\Documents and Settings\Dixit\My Documents\Visual Studio 2010\Projects\CompuSportDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\Dixit\My Documents\Visual Studio 2010\Projects\CompuSportDAL\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Documents and Settings\Dixit\My Documents\Visual Studio 2010\Projects\CompuSportDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Documents and Settings\Dixit\My Documents\Visual Studio 2010\Projects\CompuSportDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\Dixit\My Documents\Visual Studio 2010\Projects\CompuSportDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.dll
+C:\Documents and Settings\Dixit\My Documents\Visual Studio 2010\Projects\CompuSportDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+C:\Documents and Settings\Dixit\My Documents\Visual Studio 2010\Projects\CompuSportDAL\bin\Debug\compusport.Data.pdb
+C:\Documents and Settings\Dixit\My Documents\Visual Studio 2010\Projects\CompuSportDAL\bin\Debug\compusport.Data.xml
+C:\Documents and Settings\Dixit\My Documents\Visual Studio 2010\Projects\CompuSportDAL\bin\Debug\compusport.Data.SqlClient.pdb
+C:\Documents and Settings\Dixit\My Documents\Visual Studio 2010\Projects\CompuSportDAL\bin\Debug\compusport.Data.SqlClient.xml
+C:\Documents and Settings\Dixit\My Documents\Visual Studio 2010\Projects\CompuSportDAL\bin\Debug\compusport.Entities.pdb
+C:\Documents and Settings\Dixit\My Documents\Visual Studio 2010\Projects\CompuSportDAL\bin\Debug\compusport.Entities.xml
+D:\CompuSportNew\CompuSportDAL\bin\Debug\CompuSportDAL.dll
+D:\CompuSportNew\CompuSportDAL\bin\Debug\CompuSportDAL.pdb
+D:\CompuSportNew\CompuSportDAL\bin\Debug\compusport.Data.dll
+D:\CompuSportNew\CompuSportDAL\bin\Debug\compusport.Data.SqlClient.dll
+D:\CompuSportNew\CompuSportDAL\bin\Debug\compusport.Entities.dll
+D:\CompuSportNew\CompuSportDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\CompuSportNew\CompuSportDAL\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\CompuSportNew\CompuSportDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\CompuSportNew\CompuSportDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\CompuSportNew\CompuSportDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.dll
+D:\CompuSportNew\CompuSportDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\CompuSportNew\CompuSportDAL\bin\Debug\compusport.Data.pdb
+D:\CompuSportNew\CompuSportDAL\bin\Debug\compusport.Data.xml
+D:\CompuSportNew\CompuSportDAL\bin\Debug\compusport.Data.SqlClient.pdb
+D:\CompuSportNew\CompuSportDAL\bin\Debug\compusport.Data.SqlClient.xml
+D:\CompuSportNew\CompuSportDAL\bin\Debug\compusport.Entities.pdb
+D:\CompuSportNew\CompuSportDAL\bin\Debug\compusport.Entities.xml
+D:\CompuSportNew\CompuSportDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\CompuSportNew\CompuSportDAL\obj\Debug\CompuSportDAL.dll
+D:\CompuSportNew\CompuSportDAL\obj\Debug\CompuSportDAL.pdb
+G:\kiran\CompuSportNew\CompuSportNew\CompuSportDAL\bin\Debug\CompuSportDAL.dll
+G:\kiran\CompuSportNew\CompuSportNew\CompuSportDAL\bin\Debug\CompuSportDAL.pdb
+G:\kiran\CompuSportNew\CompuSportNew\CompuSportDAL\obj\Debug\ResolveAssemblyReference.cache
+G:\kiran\CompuSportNew\CompuSportNew\CompuSportDAL\obj\Debug\CompuSportDAL.dll
+G:\kiran\CompuSportNew\CompuSportNew\CompuSportDAL\obj\Debug\CompuSportDAL.pdb
+G:\NewCompuSport\CompuSportDAL\bin\Debug\CompuSportDAL.pdb
+G:\NewCompuSport\CompuSportDAL\obj\Debug\ResolveAssemblyReference.cache
+G:\NewCompuSport\CompuSportDAL\obj\Debug\CompuSportDAL.dll
+G:\NewCompuSport\CompuSportDAL\obj\Debug\CompuSportDAL.pdb
+C:\Work\NewCompuSport\CompuSportDAL\bin\Debug\CompuSportDAL.pdb
+C:\Work\NewCompuSport\CompuSportDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\NewCompuSport\CompuSportDAL\obj\Debug\CompuSportDAL.dll
+C:\Work\NewCompuSport\CompuSportDAL\obj\Debug\CompuSportDAL.pdb
+E:\Krutika\Projects\CompuSport\CompuSportDAL\bin\Debug\CompuSportDAL.pdb
+E:\Krutika\Projects\CompuSport\CompuSportDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Krutika\Projects\CompuSport\CompuSportDAL\obj\Debug\CompuSportDAL.dll
+E:\Krutika\Projects\CompuSport\CompuSportDAL\obj\Debug\CompuSportDAL.pdb
+F:\Work\Projects\sandeep\compu-sport\ Compusport19-08-2014\CompuSportDAL\bin\Debug\CompuSportDAL.pdb
+F:\Work\Projects\sandeep\compu-sport\ Compusport19-08-2014\CompuSportDAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Work\Projects\sandeep\compu-sport\ Compusport19-08-2014\CompuSportDAL\obj\Debug\CompuSportDAL.dll
+F:\Work\Projects\sandeep\compu-sport\ Compusport19-08-2014\CompuSportDAL\obj\Debug\CompuSportDAL.pdb
+C:\Users\Paandav\Desktop\Sandeep\ Compusport19-08-2014\CompuSportDAL\bin\Debug\CompuSportDAL.pdb
+C:\Users\Paandav\Desktop\Sandeep\ Compusport19-08-2014\CompuSportDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Paandav\Desktop\Sandeep\ Compusport19-08-2014\CompuSportDAL\obj\Debug\CompuSportDAL.dll
+C:\Users\Paandav\Desktop\Sandeep\ Compusport19-08-2014\CompuSportDAL\obj\Debug\CompuSportDAL.pdb
+C:\Users\Paandav\Desktop\CompuSport Data\Sandeep\ Compusport19-08-2014\CompuSportDAL\bin\Debug\CompuSportDAL.pdb
+C:\Users\Paandav\Desktop\CompuSport Data\Sandeep\ Compusport19-08-2014\CompuSportDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Paandav\Desktop\CompuSport Data\Sandeep\ Compusport19-08-2014\CompuSportDAL\obj\Debug\CompuSportDAL.dll
+C:\Users\Paandav\Desktop\CompuSport Data\Sandeep\ Compusport19-08-2014\CompuSportDAL\obj\Debug\CompuSportDAL.pdb
+C:\Users\Paandav\Desktop\CompuSport Data\Sandeep\Compusport19-08-2014_\CompuSportDAL\bin\Debug\CompuSportDAL.pdb
+C:\Users\Paandav\Desktop\CompuSport Data\Sandeep\Compusport19-08-2014_\CompuSportDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Paandav\Desktop\CompuSport Data\Sandeep\Compusport19-08-2014_\CompuSportDAL\obj\Debug\CompuSportDAL.dll
+C:\Users\Paandav\Desktop\CompuSport Data\Sandeep\Compusport19-08-2014_\CompuSportDAL\obj\Debug\CompuSportDAL.pdb
+C:\Work\Project\Compusport\Compusport\CompuSportDAL\bin\Debug\CompuSportDAL.pdb
+C:\Work\Project\Compusport\Compusport\CompuSportDAL\obj\Debug\CompuSportDAL.dll
+C:\Work\Project\Compusport\Compusport\CompuSportDAL\obj\Debug\CompuSportDAL.pdb
+C:\Work\Project\Compusport\Compusport\CompuSportDAL\obj\Debug\CompuSportDAL.csprojResolveAssemblyReference.cache
