@@ -1,0 +1,29 @@
+<!--<browsers>
+  <browser id="Chrome" parentID="Mozilla">
+    <identification>
+     <userAgent match="Chrome/(?'version'(?'major'\d+)(\.(?'minor'\d+)?)\w*)"/>
+      -->
+<!-- <userAgent match="Chrome/(?'version'(?'major'\d+)(?'minor'\.[.\d]*))" />/-->
+<!--
+    </identification>
+  </browser>
+</browsers>-->
+
+<browsers>
+  <browser id="Chrome" parentID="Safari1Plus">
+
+    <identification>
+      <userAgent match="Chrome/(?'version'(?'major'\d+)\.(?'minor'\d+\.\d+).\d+)" />
+    </identification>
+
+    <capabilities>
+      <capability name="browser" value="Chrome" />
+
+      <capability name="majorversion" value="${major}" />
+      <capability name="minorversion" value="${minor}" />
+
+      <capability name="version" value="${version}" />
+    </capabilities>
+
+  </browser>
+</browsers>
