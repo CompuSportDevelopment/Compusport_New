@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>2010-4-29-20-28</string>
+		<array>
+			<integer>1</integer>
+			<string>Upper Body Is Leaning Too Far Toward the Ball</string>
+			<string>Ball Is Too Far Back in the Stance</string>
+			<string>Clubhead Is Too Closed</string>
+			<string>Clubhead Is Positioned on the Heel</string>
+		</array>
+		<array>
+			<integer>2</integer>
+			<string>Hands Are Too Far Inside</string>
+			<string>Right Knee Is Too Straight</string>
+			<string>Clubhead Is Too Closed</string>
+		</array>
+		<array>
+			<integer>3</integer>
+			<string>Lower Body Is Shifting Too Far Toward the Ball</string>
+			<string>Left Elbow Is Flexed Too Much</string>
+			<string>Right Knee Is Too Straight</string>
+			<string>Club Shaft Is Too Vertical</string>
+		</array>
+		<array>
+			<integer>4</integer>
+			<string>Hands Are Too Low</string>
+			<string>Left Elbow Is Flexed Too Much</string>
+			<string>Right Knee Is Too Straight</string>
+		</array>
+		<array>
+			<integer>5</integer>
+			<string>Hands Are Too Far Inside</string>
+			<string>Hips Are Not Turned Enough</string>
+			<string>Right Knee Is Too Straight</string>
+			<string>Right Knee Isn't Shifting Enough Toward the Target</string>
+			<string>Club Shaft Is Too Vertical</string>
+		</array>
+		<array>
+			<integer>6</integer>
+			<string>Total Body Isn't Shifting Enough Toward the Target</string>
+			<string>Hips Are Not Turned Enough</string>
+			<string>Knees Are Too Straight</string>
+			<string>Right Knee Isn't Shifting Enough Toward the Target</string>
+		</array>
+		<array>
+			<integer>7</integer>
+			<string>Total Body Isn't Shifting Enough Toward the Target</string>
+			<string>Hips Are Not Turned Enough</string>
+			<string>Knees Are Too Straight</string>
+			<string>Right Knee Isn't Shifting Enough Toward the Target</string>
+			<string>Right Heel Isn't Off the Ground Enough</string>
+		</array>
+		<array>
+			<integer>8</integer>
+			<string>Total Body Isn't Shifting Enough Toward the Target</string>
+			<string>Right Knee Isn't Shifting Enough Toward the Target</string>
+			<string>Right Heel Isn't Off the Ground Enough</string>
+		</array>
+		<array>
+			<integer>9</integer>
+			<string>Lower Body Isn't Shifting Enough Toward the Target</string>
+			<string>Wrists Are Releasing Too Late</string>
+			<string>Right Knee Isn't Shifting Enough Toward the Target</string>
+			<string>Right Heel Isn't Off the Ground Enough</string>
+		</array>
+		<array>
+			<integer>10</integer>
+			<string>Lower Body Is Shifting Too Far Toward the Ball</string>
+		</array>
+	</array>
+</array>
+</plist>

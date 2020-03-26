@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>2009-2-21-19-20</string>
+		<array>
+			<integer>1</integer>
+			<string>Lower Body Is Leaning Too Far Away From the Ball</string>
+			<string>Shaft Is Too Low</string>
+		</array>
+		<array>
+			<integer>2</integer>
+			<string></string>
+		</array>
+		<array>
+			<integer>3</integer>
+			<string>Hands Are Too Far Outside</string>
+			<string>Club Shaft Is Too Vertical</string>
+		</array>
+		<array>
+			<integer>4</integer>
+			<string>Hands Are Too Low</string>
+			<string>Hands Are Too Far From the Target</string>
+		</array>
+		<array>
+			<integer>5</integer>
+			<string>Hands Are Too Far Outside</string>
+			<string>Club Shaft Is Too Vertical</string>
+		</array>
+		<array>
+			<integer>6</integer>
+			<string>Hands Are Too Far Outside</string>
+			<string>Hips Are Not Turned Enough</string>
+			<string>Club Shaft Is Casted</string>
+		</array>
+		<array>
+			<integer>7</integer>
+			<string>Hands Are Too High</string>
+			<string>Hips Are Not Turned Enough</string>
+		</array>
+		<array>
+			<integer>8</integer>
+			<string>Hands Are Too Far Outside</string>
+		</array>
+		<array>
+			<integer>9</integer>
+			<string>Hands Are Too Far Outside</string>
+		</array>
+		<array>
+			<integer>10</integer>
+			<string>Hands Are Too Far Outside</string>
+		</array>
+	</array>
+	<array>
+		<string>2009-12-15-14-28</string>
+		<array>
+			<integer>1</integer>
+			<string>Lower Body Is Leaning Too Far Away From the Ball</string>
+			<string>Shaft Is Too Low</string>
+		</array>
+		<array>
+			<integer>2</integer>
+			<string></string>
+		</array>
+		<array>
+			<integer>3</integer>
+			<string>Hands Are Too Far Outside</string>
+			<string>Club Shaft Is Too Vertical</string>
+		</array>
+		<array>
+			<integer>4</integer>
+			<string>Hands Are Too Low</string>
+			<string>Hands Are Too Far From the Target</string>
+		</array>
+		<array>
+			<integer>5</integer>
+			<string>Hands Are Too Far Outside</string>
+			<string>Club Shaft Is Too Vertical</string>
+		</array>
+		<array>
+			<integer>6</integer>
+			<string>Hands Are Too Far Outside</string>
+			<string>Hips Are Not Turned Enough</string>
+			<string>Club Shaft Is Casted</string>
+		</array>
+		<array>
+			<integer>7</integer>
+			<string>Hands Are Too High</string>
+			<string>Hips Are Not Turned Enough</string>
+		</array>
+		<array>
+			<integer>8</integer>
+			<string>Hands Are Too Far Outside</string>
+		</array>
+		<array>
+			<integer>9</integer>
+			<string>Hands Are Too Far Outside</string>
+		</array>
+		<array>
+			<integer>10</integer>
+			<string>Hands Are Too Far Outside</string>
+		</array>
+	</array>
+</array>
+</plist>
